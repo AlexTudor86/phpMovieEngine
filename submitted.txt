@@ -1,0 +1,1 @@
+{"search":"mobster","search_opt":"titlu_descriere","gen":["action","adventure","animation","comedy","crime","documentary","drama","family","fantasy","history","horror","mistery","music","romance","science fiction","thriller","tv movie","war","western"],"gen_opt":"or","an":"all","voturi":1000,"nota":false,"ord":"nota","asc_desc":false}
